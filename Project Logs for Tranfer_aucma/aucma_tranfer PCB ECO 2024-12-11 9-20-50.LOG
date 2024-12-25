@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=J13-1
+Removed Pin From Net: NetName=LED_PWR Pin=J13-2
+Added Component: Designator=J11(positioning crimp terminals)
+Added Component: Designator=J16(positioning crimp terminals)
+Added Pin To Net: NetName=LED_PWR Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Pin To Net: NetName=HOT_PWR Pin=J15-3
+Added Pin To Net: NetName=COLD_NE Pin=J16-2
+Added Net: Name=COLD_NE
+Added Pin To Net: NetName=DROP_24V Pin=J14-2
+Added Net: Name=DROP_24V
+Added Pin To Net: NetName=HOT_WIND_LIVE Pin=J11-2
+Added Net: Name=HOT_WIND_LIVE
+Added Pin To Net: NetName=HOT_WIND_NE Pin=J15-5
+Added Net: Name=HOT_WIND_NE
+Added Pin To Net: NetName=WIND_PWR Pin=J15-1
+Added Net: Name=WIND_PWR
+Added Member To Class: ClassName=aucma_tranfer Member=Component J11 SIP-2
+Added Member To Class: ClassName=aucma_tranfer Member=Component J16 SIP-2
+Added Room: Name=aucma_tranfer

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D7 Old Footprint=SMA/DO214AC New Footprint=LL34_2P
+Change Component Footprint: Designator=D8 Old Footprint=SMA/DO214AC New Footprint=LL34_2P
+Change Component Footprint: Designator=D15 Old Footprint=SMA/DO214AC New Footprint=LL34_2P
+Change Component Footprint: Designator=D16 Old Footprint=SMA/DO214AC New Footprint=LL34_2P
+Added Room: Name=aucma_tranfer

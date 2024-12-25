@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=24V Pin=J5-2
+Removed Member From Class: ClassName=aucma_tranfer Member=J5
+Added Component: Designator=J13(5557-2*1AW)
+Added Pin To Net: NetName=24V Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Member To Class: ClassName=aucma_tranfer Member=Component J13 DIP-2*1
+Added Room: Name=aucma_tranfer

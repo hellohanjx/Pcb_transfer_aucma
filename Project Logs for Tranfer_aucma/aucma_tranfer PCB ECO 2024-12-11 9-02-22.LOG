@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=SIG1 Pin=J9-1
+Added Pin To Net: NetName=SIG2 Pin=J9-2
+Added Pin To Net: NetName=SIG3 Pin=J9-3
+Added Pin To Net: NetName=SIG4 Pin=J9-4
+Added Pin To Net: NetName=SIG5 Pin=J9-5
+Added Pin To Net: NetName=SIG6 Pin=J9-6
+Added Pin To Net: NetName=SIG5 Pin=J9-7
+Added Pin To Net: NetName=SIG4 Pin=J9-8
+Added Pin To Net: NetName=SIG3 Pin=J9-9
+Added Pin To Net: NetName=SIG2 Pin=J9-10
+Added Pin To Net: NetName=SIG1 Pin=J9-11
+Added Member To Class: ClassName=aucma_tranfer Member=Component J4 DIP-2*4
+Added Member To Class: ClassName=aucma_tranfer Member=Component J15 SIP-5-RED
+Added Room: Name=aucma_tranfer

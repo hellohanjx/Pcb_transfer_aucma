@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=HOT_SIG Pin=D8-1
+Removed Pin From Net: NetName=HOT_PWR Pin=K2-1
+Added Pin To Net: NetName=FOG_PWR Pin=K2-1
+Added Pin To Net: NetName=HOT_WIND_LIVE Pin=K2-2
+Added Pin To Net: NetName=FOG_SIG Pin=D8-1
+Added Net: Name=FOG_SIG
+Added Room: Name=aucma_tranfer

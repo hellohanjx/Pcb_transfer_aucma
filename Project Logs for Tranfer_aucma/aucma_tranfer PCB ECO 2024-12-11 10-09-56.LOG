@@ -1,0 +1,69 @@
+Change Component Footprint: Designator=J5 Old Footprint=5557-2*1AW New Footprint=5557-2*1A
+Change Component Footprint: Designator=J4 Old Footprint=PHB-2*4AW New Footprint=PHB-2*4A
+Change Component Footprint: Designator=J2 Old Footprint=XHB-8AW New Footprint=XHB-8A
+Change Component Footprint: Designator=J3 Old Footprint=XHB-10AW New Footprint=XHB-10A
+Change Component Footprint: Designator=J1 Old Footprint=苤5557-2*3AW New Footprint=苤5557-2*3A
+Added Component: Designator=J19(XHB-2A)
+Added Component: Designator=Q5(SOT-23-3)
+Added Component: Designator=Q6(SOT-23-3)
+Added Component: Designator=Q7(SOT-23-3)
+Added Component: Designator=Q8(SOT-23-3)
+Added Component: Designator=R13(0603_R)
+Added Component: Designator=R14(0603_R)
+Added Component: Designator=R15(0603_R)
+Added Component: Designator=R16(0603_R)
+Added Component: Designator=R17(0603_R)
+Added Component: Designator=R18(0603_R)
+Added Component: Designator=R19(0603_R)
+Added Component: Designator=R20(0603_R)
+Added Pin To Net: NetName=DROP_SIG Pin=J19-1
+Added Pin To Net: NetName=24V Pin=Q5-2
+Added Pin To Net: NetName=LED_PWR Pin=Q5-3
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=24V Pin=Q7-2
+Added Pin To Net: NetName=DROP_24V Pin=Q7-3
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=24V Pin=R13-1
+Added Pin To Net: NetName=LED_SIG Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=24V Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=DROP_EN Pin=J19-2
+Added Pin To Net: NetName=DROP_EN Pin=R19-1
+Added Net: Name=DROP_EN
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R13-2
+Added Pin To Net: NetName=NetQ5_1 Pin=R14-2
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R15-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R16-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R14-1
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R17-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R18-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R19-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R20-2
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ8_3 Pin=Q8-3
+Added Pin To Net: NetName=NetQ8_3 Pin=R18-1
+Added Net: Name=NetQ8_3
+Added Member To Class: ClassName=aucma_tranfer Member=Component J19 SIP-2-BLUE
+Added Member To Class: ClassName=aucma_tranfer Member=Component Q5 AO3401
+Added Member To Class: ClassName=aucma_tranfer Member=Component Q6 BC817-40
+Added Member To Class: ClassName=aucma_tranfer Member=Component Q7 AO3401
+Added Member To Class: ClassName=aucma_tranfer Member=Component Q8 BC817-40
+Added Member To Class: ClassName=aucma_tranfer Member=Component R13 2.2K次/1%
+Added Member To Class: ClassName=aucma_tranfer Member=Component R14 4.7K次/1%
+Added Member To Class: ClassName=aucma_tranfer Member=Component R15 4.7K次/1%
+Added Member To Class: ClassName=aucma_tranfer Member=Component R16 100K次/1%
+Added Member To Class: ClassName=aucma_tranfer Member=Component R17 2.2K次/1%
+Added Member To Class: ClassName=aucma_tranfer Member=Component R18 4.7K次/1%
+Added Member To Class: ClassName=aucma_tranfer Member=Component R19 4.7K次/1%
+Added Member To Class: ClassName=aucma_tranfer Member=Component R20 100K次/1%
+Added Room: Name=aucma_tranfer

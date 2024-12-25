@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=K1 Old Footprint=HF152FD-1H New Footprint=SLA-24VDC-SL-A
+Added Component: Designator=J3(XHB-10A)
+Added Component: Designator=J5(HB7620-2P)
+Added Component: Designator=J6(XHB-8A)
+Added Component: Designator=J7(XHB-3A)
+Added Component: Designator=J8(XHB-5A)
+Added Component: Designator=J9(XHB-5A)
+Added Component: Designator=J10(XHB-12A)
+Added Component: Designator=J11(VH3.96-4A)
+Added Component: Designator=J14(VH3.96-5A)
+Added Component: Designator=J16(XHB-10A)
+Added Component: Designator=J17(VH3.96-2A)
+Added Component: Designator=J18(XHB-4A)
+Added Component: Designator=J19(VH3.96-5A)
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=24V Pin=J5-2
+Added Member To Class: ClassName=aucma_tranfer Member=Component J3 SIP-10
+Added Member To Class: ClassName=aucma_tranfer Member=Component J5 SIP-2
+Added Member To Class: ClassName=aucma_tranfer Member=Component J6 SIP-8
+Added Member To Class: ClassName=aucma_tranfer Member=Component J7 SIP-3-RED
+Added Member To Class: ClassName=aucma_tranfer Member=Component J8 SIP-5
+Added Member To Class: ClassName=aucma_tranfer Member=Component J9 SIP-5-RED
+Added Member To Class: ClassName=aucma_tranfer Member=Component J10 SIP-12
+Added Member To Class: ClassName=aucma_tranfer Member=Component J11 SIP-4
+Added Member To Class: ClassName=aucma_tranfer Member=Component J14 SIP-5
+Added Member To Class: ClassName=aucma_tranfer Member=Component J16 SIP-10-RED
+Added Member To Class: ClassName=aucma_tranfer Member=Component J17 SIP-2
+Added Member To Class: ClassName=aucma_tranfer Member=Component J18 SIP-4
+Added Member To Class: ClassName=aucma_tranfer Member=Component J19 SIP-5-RED
+Added Room: Name=aucma_tranfer

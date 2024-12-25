@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DROP_SIG Pin=J20-1
+Removed Pin From Net: NetName=DROP_EN Pin=J20-3
+Added Pin To Net: NetName=DROP_EN Pin=J20-1
+Added Pin To Net: NetName=DROP_SIG Pin=J20-3
+Added Room: Name=aucma_tranfer

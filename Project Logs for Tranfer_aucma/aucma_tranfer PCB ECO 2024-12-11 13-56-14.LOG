@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R1 Old Footprint=1206_R New Footprint=0805_R
+Change Component Footprint: Designator=R2 Old Footprint=1206_R New Footprint=0805_R
+Change Component Footprint: Designator=R7 Old Footprint=1206_R New Footprint=0805_R
+Change Component Footprint: Designator=R8 Old Footprint=1206_R New Footprint=0805_R
+Change Component Comment : Designator=D2 Old Comment=红色LED New Comment=绿色LED
+Change Component Comment : Designator=D10 Old Comment=红色LED New Comment=黄色LED
+Added Room: Name=aucma_tranfer

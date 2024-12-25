@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=COLD_NE Pin=J15-5
+Added Member To Class: ClassName=aucma_tranfer Member=Component J18 SIP-2
+Added Room: Name=aucma_tranfer

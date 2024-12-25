@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=24V Pin=J13-1
+Removed Pin From Net: NetName=GND Pin=J13-2
+Removed Member From Class: ClassName=aucma_tranfer Member=J13
+Added Room: Name=aucma_tranfer

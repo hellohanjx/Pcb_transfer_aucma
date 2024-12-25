@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=aucma_tranfer Member=J11
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=24V Pin=J10-4
+Added Pin To Net: NetName=SIG6 Pin=J12-5
+Added Pin To Net: NetName=24V Pin=J12-9
+Added Pin To Net: NetName=GND Pin=J12-10
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=DOOR Pin=J12-6
+Added Net: Name=DOOR
+Added Pin To Net: NetName=DROP_SIG Pin=J12-3
+Added Net: Name=DROP_SIG
+Added Pin To Net: NetName=LED_PWR Pin=J13-2
+Added Net: Name=LED_PWR
+Added Room: Name=aucma_tranfer

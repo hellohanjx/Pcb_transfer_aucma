@@ -1,0 +1,5 @@
+Added Component: Designator=J20(XHB-3A)
+Added Pin To Net: NetName=TEMP_OUT Pin=J20-1
+Added Pin To Net: NetName=TEMP_IN Pin=J20-3
+Added Member To Class: ClassName=aucma_tranfer Member=Component J20 SIP-3
+Added Room: Name=aucma_tranfer

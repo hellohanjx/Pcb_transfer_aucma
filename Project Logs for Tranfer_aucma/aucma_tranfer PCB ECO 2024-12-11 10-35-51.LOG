@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=FOG_PWR Pin=J15-2
+Added Net: Name=FOG_PWR
+Added Room: Name=aucma_tranfer

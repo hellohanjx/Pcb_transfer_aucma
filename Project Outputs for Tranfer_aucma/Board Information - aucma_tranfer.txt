@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\Hanjx\MyWork\github\HEIM\PCB\Pcb_transfer_aucma\Pcb_transfer_aucma\aucma_tranfer.PcbDoc
+Date         : 2024/12/11
+Time         : 16:52:14
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 125
+    Connections routed, 125
+    Connections remaining, 0
+count : 4
